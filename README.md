@@ -1,6 +1,6 @@
 # bootCamp
 
-Projeto de Desenvolvimento de um bootCamp para a DNC, utilizando HTML e CSS na prática, para o aúxilio de telas menores foi utilizado mediaQuery, para a captação de dados do formulário foi utilizado a plataforma Formspree, nesse caso o acesso é privado, porém o link do site vai está disponível para a visualização.
-Repositório Git e Upload do site diretamente pela Netlify.
+Development project of a bootcamp for DNC, using HTML and CSS in practice, mediaQuery was used to help smaller screens, the Formspree platform was used to capture form data, in this case access is private, but the link of the site will be available for viewing.
+Git repository and Website Upload directly by Netlify.
 
-Link do bootCamp: https://a-bootcampdnc.netlify.app/
+BootCamp link: https://a-bootcampdnc.netlify.app/
